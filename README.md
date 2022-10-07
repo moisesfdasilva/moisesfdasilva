@@ -19,6 +19,25 @@
   <a href="https://github.com/moisesfdasilva">
   <p>GitHub: https://github.com/moisesfdasilva <p>
 </div>
+<div>
+<p>_________________________________________________________________________</p>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="50em" src="https://testing-library.com/img/octopus-64x64.png" />
+  
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</div>
 
 <!--
 **moisesfdasilva/moisesfdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
