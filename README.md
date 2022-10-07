@@ -20,7 +20,7 @@
   <p>GitHub: https://github.com/moisesfdasilva <p>
 </div>
 <div>
-<p>_______________________________________________________________________________</p>
+<p>___________________________________________________________________________________</p>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
