@@ -2,7 +2,7 @@
 <div align="left">
   <h1>Moisés Fernandes</h1>
   <h2>Desenvolvedor Web: Front-end e Back-end</h2>
-  <h4>Profissional, atualmente, estudando Desenvolvimento Web Back-end e Front-end.</h4>
+  <h4>Profissional, atualmente, estudando Desenvolvimento Web, Back-end e Front-end.</h4>
 </div>
 <div align="center">
   <a href="https://github.com/moisesfdasilva">
