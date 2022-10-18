@@ -26,7 +26,6 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img height="50em" src="https://testing-library.com/img/octopus-64x64.png" />
   
