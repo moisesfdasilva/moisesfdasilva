@@ -1,52 +1,61 @@
 
 <div align="left">
-  <h1>Moisés Fernandes</h1>
-  <h2>Desenvolvedor Web: Front-end e Back-end</h2>
-  <h4>Profissional, atualmente, estudando Desenvolvimento Web, Back-end e Front-end.</h4>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesfdasilva&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesfdasilva&layout=compact&langs_count=7&theme=swift"/>
-</div>
-
-</br></br>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ms-fernandes">
-  <p>LinkedIn: https://www.linkedin.com/ms-fernandes/ <p>
+  <h2>Olá, sou Moisés Fernandes!</h2>
+  <h4>Desenvolvedor Web: Front-end</h4>
 </div>
 <div align="left">
-  <a href="https://github.com/moisesfdasilva">
-  <p>GitHub: https://github.com/moisesfdasilva <p>
+  <p>_________________________________________________________________________</p>
+  <h4>Sobre mim:</h4>
+  <p>
+    Profissional formado em Desenvolvimento Front-end e Engenharia Civil. Atualmente, estudando Desenvolvimento Back-end e Ciência da Computação.
+  </p>
 </div>
 <div>
-<p>_________________________________________________________________________</p>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
+  <p>_________________________________________________________________________</p>
+  <h4>Estatísticas do GitHub:</h4>
+  <div align="center">
+    <a href="https://github.com/moisesfdasilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moisesfdasilva&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+   </div>
+   <div align="center">
+     <a href="https://github.com/moisesfdasilva">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesfdasilva&layout=compact&langs_count=7&theme=swift"/>
+   </div>
+</div>
+</br></br>
+<div>
+  <p>_________________________________________________________________________</p>
+  <h4>Principais linguagens e ferramentas:</h4>
+  <a href="https://git-scm.com/">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://github.com/">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
+  <a href="https://jestjs.io/">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <a href="https://testing-library.com/">
   <img height="50em" src="https://testing-library.com/img/octopus-64x64.png" />
-  
+  <a href="https://www.w3schools.com/html/default.asp">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <a href="https://www.w3schools.com/css/default.asp">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
+  <a href="https://www.w3schools.com/js/default.asp">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <a href="https://reactjs.org/">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <a href="https://redux.js.org/">
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
-
-<!--
-**moisesfdasilva/moisesfdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <p>_________________________________________________________________________</p>
+  <h4>Redes sociais:</h4>
+  <div align="left">
+    <div>
+      <a href="https://www.linkedin.com/in/ms-fernandes">
+      <img height="50em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </div>
+    <div>
+      <a href="https://github.com/moisesfdasilva">
+      <img height="50em" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+    </div>
+  </div>
+</div>
