@@ -47,7 +47,7 @@
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
-  <h4>Redes sociais:</h4>
+  <h4>Mídias sociais:</h4>
   <div align="left">
     <div>
       <a href="https://github.com/moisesfdasilva">
@@ -56,6 +56,10 @@
     <div>
       <a href="https://www.linkedin.com/in/ms-fernandes">
       <img height="35em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </div>
+    <div>
+      <a href="mailto:msesfernandes@gmail.com">
+      <img height="35em" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     </div>
   </div>
 </div>
