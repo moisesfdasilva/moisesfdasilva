@@ -50,12 +50,12 @@
   <h4>Redes sociais:</h4>
   <div align="left">
     <div>
-      <a href="https://www.linkedin.com/in/ms-fernandes">
-      <img height="50em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      <a href="https://github.com/moisesfdasilva">
+      <img height="35em" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
     </div>
     <div>
-      <a href="https://github.com/moisesfdasilva">
-      <img height="50em" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+      <a href="https://www.linkedin.com/in/ms-fernandes">
+      <img height="35em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </div>
   </div>
 </div>
