@@ -1,7 +1,6 @@
-
 <div align="left">
   <h2>Olá, sou Moisés Fernandes!</h2>
-  <h4>Desenvolvedor Web: Front-end</h4>
+  <h4>Desenvolvedor Web: Back-end</h4>
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
@@ -25,25 +24,35 @@
 </br></br>
 <div>
   <p>_________________________________________________________________________</p>
-  <h4>Principais linguagens e ferramentas:</h4>
-  <a href="https://git-scm.com/">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <a href="https://github.com/">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <a href="https://jestjs.io/">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <a href="https://testing-library.com/">
-  <img height="50em" src="https://testing-library.com/img/octopus-64x64.png" />
-  <a href="https://www.w3schools.com/html/default.asp">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <a href="https://www.w3schools.com/css/default.asp">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <h4>Linguagens de programação:</h4>
   <a href="https://www.w3schools.com/js/default.asp">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <a href="https://www.typescriptlang.org/docs/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <h4>Testes:</h4>
+  <a href="https://jestjs.io/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <a href="https://www.chaijs.com/guide/">
+  <img height="55em" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
+  <h4>Banco de Dados:</h4>
+  <a href="https://www.mysql.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <a href="https://www.mongodb.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <h4>Desenvolvimento Front-end:</h4>
+  <a href="https://www.w3schools.com/html/default.asp">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <a href="https://www.w3schools.com/css/default.asp">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <a href="https://reactjs.org/">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <a href="https://redux.js.org/">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <h4>Desenvolvimento Back-end:</h4>
+  <a href="https://www.docker.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <a href="https://expressjs.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <a href="https://nodejs.org/en">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
