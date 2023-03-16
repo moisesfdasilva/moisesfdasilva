@@ -47,12 +47,17 @@
   <a href="https://reactjs.org/">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <h4>Desenvolvimento Back-end:</h4>
-  <a href="https://www.docker.com/">
-  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <a href="https://expressjs.com/">
-  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <a href="https://nodejs.org/en">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <a href="https://expressjs.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <h4>Controle e hospedagem de versões, e criação de containers virtuais:</h4>
+  <a href="https://git-scm.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <a href="https://github.com/">
+	<img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <a href="https://www.docker.com/">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
