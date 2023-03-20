@@ -34,19 +34,19 @@
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <a href="https://www.chaijs.com/guide/">
   <img height="55em" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
-  <h4>Banco de Dados:</h4>
+  <h4>Banco de dados:</h4>
   <a href="https://www.mysql.com/">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <a href="https://www.mongodb.com/">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <h4>Desenvolvimento Front-end:</h4>
+  <h4>Desenvolvimento front-end:</h4>
   <a href="https://www.w3schools.com/html/default.asp">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <a href="https://www.w3schools.com/css/default.asp">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <a href="https://reactjs.org/">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <h4>Desenvolvimento Back-end:</h4>
+  <h4>Desenvolvimento back-end:</h4>
   <a href="https://nodejs.org/en">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <a href="https://expressjs.com/">
@@ -55,7 +55,7 @@
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <a href="https://mongoosejs.com/">
   <img height="55em" src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" />
-  <h4>Controle e hospedagem de versões, e criação de containers virtuais:</h4>
+  <h4>Criação de containers virtuais e controle e hospedagem de versões:</h4>
   <a href="https://git-scm.com/">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <a href="https://github.com/">
