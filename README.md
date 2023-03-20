@@ -6,7 +6,7 @@
   <p>_________________________________________________________________________</p>
   <h4>Sobre mim:</h4>
   <p>
-    Profissional formado em Desenvolvimento Front-end e Engenharia Civil. Atualmente, estudando Desenvolvimento Back-end e Ciência da Computação.
+    Profissional formado em Desenvolvimento Web Full-Stack(formando em Back-end) e Engenharia Civil. Atualmente, estudando Desenvolvimento Back-end e Ciência da Computação.
   </p>
 </div>
 <div>
