@@ -1,12 +1,12 @@
 <div align="left">
   <h2>Olá, sou Moisés Fernandes!</h2>
-  <h4>Desenvolvimento Web Fullstack</h4>
+  <h4>Desenvolvimento Web Full Stack</h4>
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
   <h4>Sobre mim:</h4>
   <p>
-    Profissional formado em Desenvolvimento Web Fullstack e Engenharia Civil. Atualmente, estudando Ciência da Computação.
+    Profissional formado em Desenvolvimento Web Full Stack e Engenharia Civil. Atualmente, estudando Ciência da Computação.
   </p>
 </div>
 <div>
