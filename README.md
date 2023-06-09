@@ -69,6 +69,8 @@
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <a href="https://mongoosejs.com/">
   <img height="55em" src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" />
+  <a href="https://spring.io/guides">
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
   <h4>Criação de containers virtuais e controle e hospedagem de versões:</h4>
   <a href="https://git-scm.com/">
