@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Olá, sou Moisés Fernandes!</h2>
-  <h4>Desenvolvimento Web Full Stack</h4>
+  <h4>Desenvolvedor Web Full Stack</h4>
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
