@@ -6,7 +6,7 @@
   <p>_________________________________________________________________________</p>
   <h4>Sobre mim:</h4>
   <p>
-    Profissional formado em Desenvolvimento Web Full Stack e Engenharia Civil. Atualmente, estudando Ciência da Computação.
+    Profissional formado em Desenvolvimento Web Full Stack e Engenharia Civil.
   </p>
 </div>
 <div>
