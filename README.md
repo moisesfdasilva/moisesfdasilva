@@ -40,7 +40,7 @@
   <a href="https://testing-library.com/">
   <img height="55em" src="https://testing-library.com/img/octopus-64x64.png" />
   <a href="https://mochajs.org/">
-  <img height="55em" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
+  <img height="55em" src="https://mochajs.org/images/mocha-logo.svg" />
   <a href="https://docs.pytest.org/en/7.3.x/contents.html">
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
   <a href="https://junit.org/junit5/docs/current/user-guide/">
