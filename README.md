@@ -1,6 +1,6 @@
 <div align="left">
   <h2>Olá, sou Moisés F Silva!</h2>
-  <h4>Desenvolvedor Web Full Stack</h4>
+  <h4>Desenvolvedor Web Full Stack e Estudande de Ciência da Computação</h4>
 </div>
 <div align="left">
   <p>_________________________________________________________________________</p>
